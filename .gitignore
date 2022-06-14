@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!scripts/
+!scripts/*
+!scripts/*/*
+!scripts/*/*/*
+!scripts/*/*/*/*
+!scripts/*/*/*/*/*
+!scripts/*/*/*/*/*/*
+!scripts/*/*/*/*/*/*/*
+!scripts/*/*/*/*/*/*/*/*
+!scripts/*/*/*/*/*/*/*/*/*
+!scripts/*/*/*/*/*/*/*/*/*/*
+!README.md
